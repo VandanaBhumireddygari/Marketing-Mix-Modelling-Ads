@@ -175,15 +175,7 @@ jupyter notebook "Silver___Gold (2).ipynb"
 # 📝 Author
 
 **Vandana Bhumireddygari**
-Master’s in Data Science & AI — UT Dallas
-(2025)
 
----
-
-If you want, I can also:
-
-✅ Add badges (Python version, license, last updated)
-✅ Add visuals / diagrams inside the README
 ✅ Generate a GitHub-ready **repo landing page** screenshot
 ✅ Create a polished repository description text for GitHub sidebar
 
